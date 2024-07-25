@@ -2,8 +2,8 @@
 - 👀 I’m interested in Cloud Computing.
 - 🌱 I’m currently learning AWS DevOps.
 - 📫 Reach me at rkeerthi333@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Monkey Minded, Thriving hard to stay Dedicated.
+- 😄 Pronouns: She/Her 👩
+- ⚡ Fun fact: 🐒 Minded, Thriving hard to stay 🎯.
 
 <!---
 RKeerthi333/RKeerthi333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
